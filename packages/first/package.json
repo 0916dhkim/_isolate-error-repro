@@ -1,0 +1,11 @@
+{
+  "name": "@internal/first",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./first.js"
+  },
+  "dependencies": {
+    "@internal/second": "workspace:*"
+  }
+}

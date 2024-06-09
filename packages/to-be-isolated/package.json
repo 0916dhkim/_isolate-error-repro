@@ -1,0 +1,8 @@
+{
+  "name": "@internal/to-be-isolated",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "@internal/first": "workspace:*"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@internal/second",
+  "version": "0.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./second.js"
+  }
+}

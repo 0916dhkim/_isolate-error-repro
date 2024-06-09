@@ -1,0 +1,7 @@
+{
+  "name": "isolate-error-repro",
+  "version": "1.0.0",
+  "devDependencies": {
+    "isolate-package": "^1.16.0"
+  }
+}
