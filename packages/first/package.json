@@ -2,6 +2,9 @@
   "name": "@internal/first",
   "version": "0.0.0",
   "type": "module",
+  "files": [
+    "first.js"
+  ],
   "exports": {
     ".": "./first.js"
   },

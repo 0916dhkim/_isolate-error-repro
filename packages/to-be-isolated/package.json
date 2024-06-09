@@ -2,6 +2,9 @@
   "name": "@internal/to-be-isolated",
   "version": "0.0.0",
   "type": "module",
+  "files": [
+    "main.js"
+  ],
   "dependencies": {
     "@internal/first": "workspace:*"
   }
